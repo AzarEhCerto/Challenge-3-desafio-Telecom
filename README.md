@@ -49,4 +49,4 @@ Com base nos resultados do modelo, as recomendações para a **Telecom X** são:
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:  
    ```bash
-   git clone 
+   git clone https://github.com/AzarEhCerto/Challenge-3-desafio-Telecom.git
